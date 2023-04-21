@@ -5,7 +5,7 @@ module.exports = {
       'module-resolver',
       {
         alias: {
-          '@react-native-community/image-editor': './lib/ImageEditor',
+          '@rotender/image-editor': './lib/ImageEditor',
         },
         cwd: 'babelrc',
       },
